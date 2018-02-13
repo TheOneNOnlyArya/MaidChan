@@ -1,0 +1,20 @@
+{
+  "name": "aryabot",
+  "version": "1.0.0",
+  "description": "My testing bot",
+  "main": "bot.js",
+  "author": "Arya Steele",
+  "dependencies": {
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^11.3.0",
+    "winston": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "4.2.6"
+  },
+  "license": "ISC"
+}
